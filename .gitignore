@@ -1,0 +1,7 @@
+*.crt
+*.key
+*.pem
+*.zip*
+vault
+data/
+init.txt
